@@ -52,6 +52,6 @@ data class Meal(
     val strMeasure8: String,
     val strMeasure9: String,
     val strSource: String,
-    val strTags: Any,
+    val strTags: String,
     val strYoutube: String
 )
